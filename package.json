@@ -1,0 +1,14 @@
+{
+  "name": "ci-cd-pipeline",
+  "version": "1.0.0",
+  "description": "A simple CI/CD pipeline project",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
